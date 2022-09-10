@@ -48,7 +48,7 @@ Everyone is allowed to download the files or modify the code.
 However, should you wish to publish this in your socials, please provide appropriate credits.  
 
 You can add this as your description if you like:  
-Source Code: https://github.com/akashcraft/Wordle-Python  
+Source Code: https://github.com/akashcraft/WAY-Banking-Management  
 AkashCraft: [youtube.com/c/AkashCraft2](https://youtube.com/c/AkashCraft2)  
 
 Thanks!
