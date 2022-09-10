@@ -1,0 +1,81 @@
+Changelogs
+V1.0
+-Name of System added AWY Banks Ltd
+-Added Database
+-Added Changelog
+-Preliminary Checks
+-Table Created
+-Name of System changed WAY Banks Ltd 
+
+V1.1
+-Main Console Added
+-/quit /about /help commands now work
+-/register command now works
+-/login /logout commands added
+
+V1.2
+-/withdraw /deposit commands now work
+
+V1.3
+-/transfer command now works
+
+V1.4
+-/enteradmin and /godmode works
+-Changes made to Password Collection. Now considered PIN
+-Changes to command. Please refer assigned codes.
+-Printing table in Python
+
+V1.5
+-/stat and /cancel acc commands now work
+-PIN datatype changed to varchar. Name Constraint Added
+V1.6
+-Added Sub commands to /enteradmin
+/clear
+/delete
+/defund
+/view
+/help
+/exitadmin
+-Added Google Feedback forms
+-Added new command /feedback
+
+V1.7
+-/change username and /change pin commands now work
+-Added Startup Design
+-Redesigned /help to display information in a tabular form
+-/balance command now works
+
+V1.8
+-Redesigned /quit and /about interface
+-Project Report
+-Created WAY Banks Logo
+
+V1.9
+-Logging Complete
+-Added Comments
+-Final Formatting
+-Testing Phase Commenced
+
+V2.0
+-Report Completed
+-Final Release
+
+Assigned Codes
+Akash
+/enteradmin or godmode
+/deposit
+/withdraw
+/transfer
+/logout
+/login
+
+Wahab
+/stat
+/register
+/cancel acc
+/feedback
+
+Yusra
+/change pin
+/change username
+/balance
