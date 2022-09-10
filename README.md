@@ -41,7 +41,7 @@ Other features include, PIN protected accounts, Case or Number criteria checks, 
 The system is tested and tries to print custom messages in case of unexpected errors during runtime or exceptions rather than terminating unexpectedly.
 
 ## Detailed Instructions
-To view a more detailed version containing syntaxes for each command, open the Detailed Instructions.pdf from files or click [here](https://github.com/akashcraft/WAY-Banking-Management/files/9539411/Detailed.Instructions.pdf)
+To view a more detailed version containing explanation for each command, open the Detailed Instructions.pdf from files or click [here](https://github.com/akashcraft/WAY-Banking-Management/files/9539411/Detailed.Instructions.pdf)
 
 ## Who can use this?
 Anyone is allowed to download the files or modify the code.  
